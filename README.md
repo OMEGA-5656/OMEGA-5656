@@ -1,10 +1,10 @@
-# Hi, I'm Abhishek Saini 👋
+# Hi, I'm Abhishek Saini 🚀
 
 I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I specialize in building **autonomous AI-driven systems**, high-accuracy **computer vision pipelines**, and **scalable full-stack applications**.
 
 - 🤖 **Current Focus:** Zero-human-intervention automation and localized LLM integration.
-- 💻 **System Experience:** Extensive experience in low-level system administration with **Arch Linux**.
-- ✉️ **Contact:** abhisheksaini5656000@gmail.com
+- ⚡ **System Experience:** Extensive experience in low-level system administration with **Arch Linux**.
+- **Contact:** abhisheksaini5656000@gmail.com
 
 ---
 
@@ -46,7 +46,7 @@ I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I speciali
 * Developed an end-to-end pipeline achieving **94% accuracy** using **MTCNN** and **Inception ResnetV1**.
 * Optimized backend inference through **vectorized processing** and model caching for low-latency detection.
 
-#### 🤖 Automated Content Pipeline
+#### ⚙️ Automated Content Pipeline
 **Autonomous AI & Automation**
 * Built a **zero-human-intervention system** using **n8n, Docker, and Ollama**.
 * Orchestrated **Gemma 3:4B** for script synthesis and **Kokoro TTS** for high-fidelity audio generation.
