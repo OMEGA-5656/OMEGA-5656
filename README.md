@@ -67,5 +67,3 @@ I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I speciali
 
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-saini-251b44364)
-
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOMEGA-5656&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile%20views&edge_flat=false)
