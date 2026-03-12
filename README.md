@@ -3,12 +3,12 @@
 I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I specialize in building **autonomous AI-driven systems**, high-accuracy **computer vision pipelines**, and **scalable full-stack applications**.
 
 - 🤖 **Current Focus:** Zero-human-intervention automation and localized LLM integration.
-- 🛠️ **System Experience:** Extensive experience in low-level system administration with **Arch Linux**.
-- 📫 Reach me at: **abhisheksaini5656000@gmail.com** | **abhisheksaini@vantagetasks.online**
+- 💻 **System Experience:** Extensive experience in low-level system administration with **Arch Linux**.
+- ✉️ **Contact:** abhisheksaini5656000@gmail.com
 
 ---
 
-### 🛠 Technical Toolbox
+### Technical Toolbox
 
 **Languages & Core**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -33,13 +33,13 @@ I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I speciali
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 #### ✅ [VantageTasks](https://vantagetasks.vercel.app)
 **Production-Grade MERN Stack**
 * Architected a workspace-based management app with **Role-Based Access Control (RBAC)**.
-* Integrated **Resend** for transactional email flows and **JWT** for secure auth.
-* Features a full notification system and real-time task verification workflows.
+* Integrated **Resend** for transactional email flows and **JWT** for secure authentication.
+* Developed a notification system and real-time task verification workflows.
 
 #### 🔍 [Deepfake Video Detection](https://github.com/OMEGA-5656/Deepfake-Video-Detection)
 **Computer Vision & AI**
@@ -50,7 +50,7 @@ I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I speciali
 **Autonomous AI & Automation**
 * Built a **zero-human-intervention system** using **n8n, Docker, and Ollama**.
 * Orchestrated **Gemma 3:4B** for script synthesis and **Kokoro TTS** for high-fidelity audio generation.
-* Programmatically engineered video files using **MoviePy**, **Playwright**, and **Selenium** for automated data scraping and asset rendering.
+* Engineered video files using **MoviePy**, **Playwright**, and **Selenium** for automated data scraping and asset rendering.
 
 #### 🎮 Team Tilt - Co-op Platformer
 **Game Development & Networking**
@@ -59,10 +59,10 @@ I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I speciali
 
 ---
 
-### 📈 GitHub Insights
+### GitHub Insights
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEGA-5656&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGA-5656&layout=compact&theme=dark)
 
 ---
-### 🔗 Let's Connect
+### Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-saini-251b44364)
