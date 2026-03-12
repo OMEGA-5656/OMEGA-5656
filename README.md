@@ -35,12 +35,6 @@ I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I speciali
 
 ### 🌟 Featured Projects
 
-#### 🤖 Automated Content Pipeline
-**Autonomous AI & Automation**
-* Built a **zero-human-intervention system** using **n8n, Docker, and Ollama**.
-* Orchestrated **Gemma 3:4B** for script synthesis and **Kokoro TTS** for high-fidelity audio generation.
-* Programmatically engineered video files using **MoviePy**, **Playwright**, and **Selenium** for automated data scraping and asset rendering.
-
 #### ✅ [VantageTasks](https://vantagetasks.vercel.app)
 **Production-Grade MERN Stack**
 * Architected a workspace-based management app with **Role-Based Access Control (RBAC)**.
@@ -51,6 +45,12 @@ I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I speciali
 **Computer Vision & AI**
 * Developed an end-to-end pipeline achieving **94% accuracy** using **MTCNN** and **Inception ResnetV1**.
 * Optimized backend inference through **vectorized processing** and model caching for low-latency detection.
+
+#### 🤖 Automated Content Pipeline
+**Autonomous AI & Automation**
+* Built a **zero-human-intervention system** using **n8n, Docker, and Ollama**.
+* Orchestrated **Gemma 3:4B** for script synthesis and **Kokoro TTS** for high-fidelity audio generation.
+* Programmatically engineered video files using **MoviePy**, **Playwright**, and **Selenium** for automated data scraping and asset rendering.
 
 #### 🎮 Team Tilt - Co-op Platformer
 **Game Development & Networking**
