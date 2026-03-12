@@ -1,11 +1,11 @@
 # Hi, I'm Abhishek Saini 👋
 
-[cite_start]I'm a **Computer Science Engineering student** at Sapthagiri College of Engineering, Bengaluru (GPA: 7.58)[cite: 52, 57]. [cite_start]I specialize in building **autonomous AI-driven systems**, high-accuracy **computer vision pipelines**, and **scalable full-stack applications**[cite: 54, 55].
+I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I specialize in building **autonomous AI-driven systems**, high-accuracy **computer vision pipelines**, and **scalable full-stack applications**.
 
-- [cite_start]🤖 **Current Focus:** Zero-human-intervention automation and localized LLM integration[cite: 55].
-- [cite_start]💡 **Key Achievement:** Secured **3rd place** in the Tantrashwa 2.0 CodeBusters Hackathon[cite: 19].
-- [cite_start]🛠️ **System Experience:** Extensive experience in low-level system administration with **Arch Linux**.
-- [cite_start]📫 Reach me at: **abhisheksaini5656000@gmail.com** [cite: 53]
+- 🤖 **Current Focus:** Zero-human-intervention automation and localized LLM integration.
+- 💡 **Key Achievement:** Secured **3rd place** in the Tantrashwa 2.0 CodeBusters Hackathon.
+- 🛠️ **System Experience:** Extensive experience in low-level system administration with **Arch Linux**.
+- 📫 Reach me at: **abhisheksaini5656000@gmail.com**
 
 ---
 
@@ -18,22 +18,28 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**AI, Automation & Engines**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+**Automation & AI**
+![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+**Frameworks & Engines**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 🤖 [Automated YouTube Content Pipeline](https://github.com/OMEGA-5656)
+#### 🤖 Automated Content Pipeline
 **Autonomous AI & Automation**
-* [cite_start]Built a **zero-human-intervention system** using **n8n, Docker, and Ollama**[cite: 68, 70].
-* [cite_start]Orchestrated **Gemma 3:4B** for script synthesis and **Kokoro TTS** for high-fidelity audio[cite: 70].
-* [cite_start]Programmatically engineered video files using **MoviePy** for direct YouTube uploads[cite: 71].
+* Built a **zero-human-intervention system** using **n8n, Docker, and Ollama**.
+* Orchestrated **Gemma 3:4B** for script synthesis and **Kokoro TTS** for high-fidelity audio generation.
+* Programmatically engineered video files using **MoviePy**, **Playwright**, and **Selenium** for automated data scraping and asset rendering.
 
 #### ✅ [VantageTasks](https://vantagetasks.vercel.app)
 **Production-Grade MERN Stack**
@@ -43,13 +49,13 @@
 
 #### 🔍 [Deepfake Video Detection](https://github.com/OMEGA-5656/Deepfake-Video-Detection)
 **Computer Vision & AI**
-* [cite_start]Developed an end-to-end pipeline achieving **94% accuracy** using **MTCNN** and **Inception ResnetV1**.
-* [cite_start]Optimized backend inference through **vectorized processing** and model caching for low-latency detection[cite: 67].
+* Developed an end-to-end pipeline achieving **94% accuracy** using **MTCNN** and **Inception ResnetV1**.
+* Optimized backend inference through **vectorized processing** and model caching for low-latency detection.
 
-#### 🎮 [Team Tilt - Co-op Platformer](https://github.com/OMEGA-5656)
+#### 🎮 Team Tilt - Co-op Platformer
 **Game Development & Networking**
-* [cite_start]Architected a **2D co-op platformer** supporting 8-player lobbies using a **P2P model** and **Unity NGO**[cite: 74].
-* [cite_start]Integrated **Epic Online Services (EOS)** for NAT traversal and seamless matchmaking[cite: 75].
+* Architected a **2D co-op platformer** supporting 8-player lobbies using a **P2P model** and **Unity NGO**.
+* Integrated **Epic Online Services (EOS)** for NAT traversal and seamless matchmaking.
 
 ---
 
