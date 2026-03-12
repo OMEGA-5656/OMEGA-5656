@@ -3,7 +3,6 @@
 I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I specialize in building **autonomous AI-driven systems**, high-accuracy **computer vision pipelines**, and **scalable full-stack applications**.
 
 - 🤖 **Current Focus:** Zero-human-intervention automation and localized LLM integration.
-- 💡 **Key Achievement:** Secured **3rd place** in the Tantrashwa 2.0 CodeBusters Hackathon.
 - 🛠️ **System Experience:** Extensive experience in low-level system administration with **Arch Linux**.
 - 📫 Reach me at: **abhisheksaini5656000@gmail.com**
 
@@ -21,6 +20,7 @@ I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I speciali
 **Automation & AI**
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
