@@ -1,10 +1,10 @@
-# Hi, I'm Abhishek Saini 🚀
+# Hi, I'm Abhishek Saini 👋
 
 I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I specialize in building **autonomous AI-driven systems**, high-accuracy **computer vision pipelines**, and **scalable full-stack applications**.
 
 - 🤖 **Current Focus:** Zero-human-intervention automation and localized LLM integration.
-- ⚡ **System Experience:** Extensive experience in low-level system administration with **Arch Linux**.
-- **Contact:** abhisheksaini5656000@gmail.com
+- 💻 **System Experience:** Extensive experience in low-level system administration with **Arch Linux**.
+- ✉️ **Contact:** abhisheksaini5656000@gmail.com
 
 ---
 
@@ -46,7 +46,7 @@ I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I speciali
 * Developed an end-to-end pipeline achieving **94% accuracy** using **MTCNN** and **Inception ResnetV1**.
 * Optimized backend inference through **vectorized processing** and model caching for low-latency detection.
 
-#### ⚙️ Automated Content Pipeline
+#### 🤖 Automated Content Pipeline
 **Autonomous AI & Automation**
 * Built a **zero-human-intervention system** using **n8n, Docker, and Ollama**.
 * Orchestrated **Gemma 3:4B** for script synthesis and **Kokoro TTS** for high-fidelity audio generation.
@@ -60,9 +60,12 @@ I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I speciali
 ---
 
 ### GitHub Insights
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMEGA-5656&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGA-5656&layout=compact&theme=dark)
 
 ---
+
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-saini-251b44364)
+
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOMEGA-5656&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile%20views&edge_flat=false)
