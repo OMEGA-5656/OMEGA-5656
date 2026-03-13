@@ -35,7 +35,7 @@ I'm a **Computer Science Engineering student** at **VTU**, Bengaluru. I speciali
 
 ### Featured Projects
 
-#### ✅ [VantageTasks](https://vantagetasks.vercel.app)
+#### ✅ [VantageTasks](https://vantagetasks.online)
 **Production-Grade MERN Stack**
 * Architected a workspace-based management app with **Role-Based Access Control (RBAC)**.
 * Integrated **Resend** for transactional email flows and **JWT** for secure authentication.
